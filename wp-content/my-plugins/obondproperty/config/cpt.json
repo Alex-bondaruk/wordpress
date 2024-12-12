@@ -1,0 +1,11 @@
+{
+  "post-types": [
+    {
+      "slug": "property",
+      "label": "Property",
+      "supports": [
+        "title", "editor", "thumbnail"
+      ]
+    }
+  ]
+}
